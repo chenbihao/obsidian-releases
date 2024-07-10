@@ -1964,5 +1964,12 @@
     "repo": "GnRlLeclerc/Vanilla-Theme-Palettes",
     "screenshot": "thumbnail.png",
     "modes": ["light", "dark"]
+  },
+  {
+    "name": "Dark Clarity",
+    "author": "chenbihao",  
+    "repo": "chenbihao/obsidian-theme-dark-clarity",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
